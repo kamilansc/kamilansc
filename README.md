@@ -27,7 +27,7 @@ tornando possível o que antes parecia difícil ou até inviável. 🌎✨🌱
 </div>
 
 ### 📊 Estatísticas
-<a href="https://github.com/kamilansc">
+<a href="#-estatísticas">
   <div align="left">
       <img height="180em" src="https://github-readme-stats-chi-orcin-43.vercel.app/api?username=kamilansc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
       <img height="180em" src="https://github-readme-stats-chi-orcin-43.vercel.app/api/top-langs/?username=kamilansc&layout=compact&langs_count=16&theme=tokyonight">
