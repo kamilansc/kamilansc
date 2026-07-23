@@ -13,7 +13,7 @@ tornando possível o que antes parecia difícil ou até inviável. 🌎✨🌱
 💻 Apaixonada por tecnologia
 
 ---
-### ⚙ Linguagens & Tecnologias
+### Linguagens & Tecnologias
 <div align="left" style="display: inline_block">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
   <img width="40" src="https://skillicons.dev/icons?i=ts">
@@ -26,7 +26,7 @@ tornando possível o que antes parecia difícil ou até inviável. 🌎✨🌱
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>
 </div>
 
-### 📊 Estatísticas
+### Estatísticas
 <a href="#">
   <div align="left">
       <img height="180em" src="https://github-readme-stats-chi-orcin-43.vercel.app/api?username=kamilansc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
